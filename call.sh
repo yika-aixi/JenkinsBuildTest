@@ -1,3 +1,4 @@
+echo "运行开始"
 # call函数
 call(){
 	echo "executePy路径: $1"

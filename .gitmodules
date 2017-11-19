@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/JenkinsBuild"]
+	path = Assets/Plugins/JenkinsBuild
+	url = https://github.com/yika-aixi/JenkinsBuild.git
